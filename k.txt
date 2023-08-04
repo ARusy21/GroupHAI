@@ -119,12 +119,3 @@
 Musk poured $44 billion into Twitter. The global population is 8 billion people. He could have given $5 billion to each individual and still had money left over. Most people's lives would be changed if they received a $5 billion check. But he squandered it all on Twitter.
 
 Ligma
-
-<<<<<<< HEAD
-This line came from Ikhwan sub branch.
->>>>>>> 788c1fd3a4ec674abb3056e5d7aae5fd83540d6d
-=======
-This line is from Ikhwan sub branch.
-
-Another line from Ikhwan.
->>>>>>> 26cebc54adb5f71442e43b5b9db75d855039486c
